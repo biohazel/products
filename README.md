@@ -6,6 +6,8 @@ As a Product Director, I have focused on user-centric design principles, thoroug
 
 Through these strategic designs, each product delights its core audience, fosters trust, and drives meaningful outcomes.
 
+Note: These are mostly prototypes deployed on a cold server, so they take a few minutes to render on screen.  
+
 ---
 
 ## 1. ValoraSec
