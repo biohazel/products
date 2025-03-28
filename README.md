@@ -1,6 +1,6 @@
 # My Product Portfolio
 
-Below is an overview of the products I have directed, each with distinct audiences, goals, and design heuristics. I’ve also included the primary link for each product so that you can explore them directly. My overarching approach centers on clarity, accessibility, and a mobile-first design ethos to ensure every user has a seamless experience across devices. 
+Below is an overview of the products I have directed and developed myself, each with distinct audiences, goals, and design heuristics. I’ve also included the primary link for each product so that you can explore them directly. My overarching approach centers on clarity, accessibility, and a mobile-first design ethos to ensure every user has a seamless experience across devices. 
 
 As a Product Director, I have focused on user-centric design principles, thorough stakeholder research, and a universal commitment to mobile-first responsiveness. Whether it’s cybersecurity compliance for corporate leaders (ValoraSec), AI-driven feedback for entrepreneurs (Opina), grassroots Bitcoin development for Gen Z (Scalar School), or advanced news automation for journalists (RondaPress), each product prioritizes usability, scalability, and a distinct brand identity. 
 
